@@ -1,0 +1,22 @@
+{
+  "name": "dlwepyreduxserver",
+  "version": "1.0.0",
+  "description": "Wepy Redux Todo server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wepy",
+    "weapp",
+    "redux",
+    "js"
+  ],
+  "author": "David Lee <qiankunli@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.7",
+    "body-parser": "^1.18.2"
+  }
+}
